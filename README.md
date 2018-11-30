@@ -1,4 +1,4 @@
-!['preview of wikipedia API challenge']('raw.githubusercontent.com/Azurixa/WikipediaAPI_challenge/master/preview.png')
+!['preview of wikipedia API challenge']('https://raw.githubusercontent.com/Azurixa/WikipediaAPI_challenge/master/preview.png')
 # Wikipedia search API challenge (O∆O)
 >by Mateusz Ożóg
 
